@@ -2,6 +2,13 @@
 
 journey to learn machine learning and deep learning.
 
+# 🗞️ Epics 
+
+> [!NOTE]
+> Epics one - understanding candle
+
+- follow [candle tutorial](https://github.com/ToluClassics/candle-tutorial) and create a documentation in this repository
+
 ## 🧨 Resources 
 
 - [candle](https://github.com/huggingface/candle/)
