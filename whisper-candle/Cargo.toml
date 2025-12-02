@@ -1,0 +1,20 @@
+[package]
+name = "whisper-candle"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+candle-core = "0.9.1"
+candle-nn = "0.9.1"
+candle-transformers = "0.9.1"
+clap = "4.5.53"
+hf-hub = "0.4.3"
+symphonia = "0.5.5"
+tokenizers = "0.22.1"
+
+[dev-dependencies]
+rand = "0.9.2"
+tracing = "0.1.43"
+tracing-chrome = "0.7.2"
+tracing-subscriber = "0.3.22"

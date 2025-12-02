@@ -9,6 +9,15 @@ journey to learn machine learning and deep learning.
 
 - follow [candle tutorial](https://github.com/ToluClassics/candle-tutorial) and create a documentation in this repository
 
+## 🌳 LOGs 
+
+> [!NOTE]
+> 2 December 2025
+
+try to run whisper candle example and got this result 
+`cargo run --example whisper --release --features="symphonia"`
+<img width="1298" height="262" alt="image" src="https://github.com/user-attachments/assets/ada7c9df-a83e-43bc-885c-76b7bca5a7ce" />
+
 ## 🧨 Resources 
 
 - [candle](https://github.com/huggingface/candle/)
