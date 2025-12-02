@@ -17,6 +17,7 @@ journey to learn machine learning and deep learning.
 try to run whisper candle example and got this result 
 `cargo run --example whisper --release --features="symphonia"`
 <img width="1298" height="262" alt="image" src="https://github.com/user-attachments/assets/ada7c9df-a83e-43bc-885c-76b7bca5a7ce" />
+<img width="1310" height="322" alt="image" src="https://github.com/user-attachments/assets/19d0f159-65bf-4042-bf00-70bdf16b8863" />
 
 ## 🧨 Resources 
 
